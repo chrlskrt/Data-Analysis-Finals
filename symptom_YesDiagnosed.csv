@@ -1,0 +1,35 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,representativity,leverage,conviction,zhangs_metric,jaccard,certainty,kulczynski
+frozenset({'NoMemoryComplaints'}),frozenset({'YesDiagnosis'}),0.6236842105263158,1.0,0.6236842105263158,1.0,1.0,1.0,0.0,inf,0.0,0.6236842105263158,0.0,0.8118421052631579
+frozenset({'NoBehavioralProblems'}),frozenset({'YesDiagnosis'}),0.7328947368421053,1.0,0.7328947368421053,1.0,1.0,1.0,0.0,inf,0.0,0.7328947368421053,0.0,0.8664473684210526
+frozenset({'NoConfusion'}),frozenset({'YesDiagnosis'}),0.8052631578947368,1.0,0.8052631578947368,1.0,1.0,1.0,0.0,inf,0.0,0.8052631578947368,0.0,0.9026315789473685
+frozenset({'NoDisorientation'}),frozenset({'YesDiagnosis'}),0.8539473684210527,1.0,0.8539473684210527,1.0,1.0,1.0,0.0,inf,0.0,0.8539473684210528,0.0,0.9269736842105263
+frozenset({'NoPersonalityChanges'}),frozenset({'YesDiagnosis'}),0.8592105263157894,1.0,0.8592105263157894,1.0,1.0,1.0,0.0,inf,0.0,0.8592105263157894,0.0,0.9296052631578947
+frozenset({'NoDifficultyCompletingTasks'}),frozenset({'YesDiagnosis'}),0.8368421052631579,1.0,0.8368421052631579,1.0,1.0,1.0,0.0,inf,0.0,0.8368421052631579,0.0,0.918421052631579
+frozenset({'NoForgetfulness'}),frozenset({'YesDiagnosis'}),0.6986842105263158,1.0,0.6986842105263158,1.0,1.0,1.0,0.0,inf,0.0,0.6986842105263158,0.0,0.8493421052631579
+"frozenset({'NoDisorientation', 'NoMemoryComplaints'})",frozenset({'YesDiagnosis'}),0.5355263157894737,1.0,0.5355263157894737,1.0,1.0,1.0,0.0,inf,0.0,0.5355263157894739,0.0,0.7677631578947368
+"frozenset({'NoMemoryComplaints', 'NoPersonalityChanges'})",frozenset({'YesDiagnosis'}),0.5342105263157895,1.0,0.5342105263157895,1.0,1.0,1.0,0.0,inf,0.0,0.5342105263157895,0.0,0.7671052631578947
+"frozenset({'NoDifficultyCompletingTasks', 'NoMemoryComplaints'})",frozenset({'YesDiagnosis'}),0.5289473684210526,1.0,0.5289473684210526,1.0,1.0,1.0,0.0,inf,0.0,0.5289473684210526,0.0,0.7644736842105263
+"frozenset({'NoBehavioralProblems', 'NoConfusion'})",frozenset({'YesDiagnosis'}),0.593421052631579,1.0,0.593421052631579,1.0,1.0,1.0,0.0,inf,0.0,0.5934210526315791,0.0,0.7967105263157894
+"frozenset({'NoBehavioralProblems', 'NoDisorientation'})",frozenset({'YesDiagnosis'}),0.6210526315789474,1.0,0.6210526315789474,1.0,1.0,1.0,0.0,inf,0.0,0.6210526315789474,0.0,0.8105263157894738
+"frozenset({'NoBehavioralProblems', 'NoPersonalityChanges'})",frozenset({'YesDiagnosis'}),0.6263157894736842,1.0,0.6263157894736842,1.0,1.0,1.0,0.0,inf,0.0,0.6263157894736842,0.0,0.8131578947368421
+"frozenset({'NoBehavioralProblems', 'NoDifficultyCompletingTasks'})",frozenset({'YesDiagnosis'}),0.6131578947368421,1.0,0.6131578947368421,1.0,1.0,1.0,0.0,inf,0.0,0.6131578947368421,0.0,0.8065789473684211
+"frozenset({'NoBehavioralProblems', 'NoForgetfulness'})",frozenset({'YesDiagnosis'}),0.5184210526315789,1.0,0.5184210526315789,1.0,1.0,1.0,0.0,inf,0.0,0.5184210526315789,0.0,0.7592105263157894
+"frozenset({'NoDisorientation', 'NoConfusion'})",frozenset({'YesDiagnosis'}),0.6881578947368421,1.0,0.6881578947368421,1.0,1.0,1.0,0.0,inf,0.0,0.6881578947368421,0.0,0.844078947368421
+"frozenset({'NoConfusion', 'NoPersonalityChanges'})",frozenset({'YesDiagnosis'}),0.6934210526315789,1.0,0.6934210526315789,1.0,1.0,1.0,0.0,inf,0.0,0.6934210526315789,0.0,0.8467105263157895
+"frozenset({'NoDifficultyCompletingTasks', 'NoConfusion'})",frozenset({'YesDiagnosis'}),0.6605263157894737,1.0,0.6605263157894737,1.0,1.0,1.0,0.0,inf,0.0,0.6605263157894739,0.0,0.8302631578947368
+"frozenset({'NoForgetfulness', 'NoConfusion'})",frozenset({'YesDiagnosis'}),0.5605263157894737,1.0,0.5605263157894737,1.0,1.0,1.0,0.0,inf,0.0,0.5605263157894738,0.0,0.7802631578947368
+"frozenset({'NoDisorientation', 'NoPersonalityChanges'})",frozenset({'YesDiagnosis'}),0.7342105263157894,1.0,0.7342105263157894,1.0,1.0,1.0,0.0,inf,0.0,0.7342105263157894,0.0,0.8671052631578947
+"frozenset({'NoDifficultyCompletingTasks', 'NoDisorientation'})",frozenset({'YesDiagnosis'}),0.7052631578947368,1.0,0.7052631578947368,1.0,1.0,1.0,0.0,inf,0.0,0.7052631578947368,0.0,0.8526315789473684
+"frozenset({'NoDisorientation', 'NoForgetfulness'})",frozenset({'YesDiagnosis'}),0.5881578947368421,1.0,0.5881578947368421,1.0,1.0,1.0,0.0,inf,0.0,0.5881578947368421,0.0,0.7940789473684211
+"frozenset({'NoDifficultyCompletingTasks', 'NoPersonalityChanges'})",frozenset({'YesDiagnosis'}),0.725,1.0,0.725,1.0,1.0,1.0,0.0,inf,0.0,0.725,0.0,0.8625
+"frozenset({'NoForgetfulness', 'NoPersonalityChanges'})",frozenset({'YesDiagnosis'}),0.593421052631579,1.0,0.593421052631579,1.0,1.0,1.0,0.0,inf,0.0,0.5934210526315791,0.0,0.7967105263157894
+"frozenset({'NoDifficultyCompletingTasks', 'NoForgetfulness'})",frozenset({'YesDiagnosis'}),0.5815789473684211,1.0,0.5815789473684211,1.0,1.0,1.0,0.0,inf,0.0,0.5815789473684212,0.0,0.7907894736842105
+"frozenset({'NoBehavioralProblems', 'NoDisorientation', 'NoConfusion'})",frozenset({'YesDiagnosis'}),0.5013157894736842,1.0,0.5013157894736842,1.0,1.0,1.0,0.0,inf,0.0,0.5013157894736842,0.0,0.7506578947368421
+"frozenset({'NoBehavioralProblems', 'NoConfusion', 'NoPersonalityChanges'})",frozenset({'YesDiagnosis'}),0.5092105263157894,1.0,0.5092105263157894,1.0,1.0,1.0,0.0,inf,0.0,0.5092105263157894,0.0,0.7546052631578948
+"frozenset({'NoBehavioralProblems', 'NoDisorientation', 'NoPersonalityChanges'})",frozenset({'YesDiagnosis'}),0.5302631578947369,1.0,0.5302631578947369,1.0,1.0,1.0,0.0,inf,0.0,0.5302631578947369,0.0,0.7651315789473685
+"frozenset({'NoBehavioralProblems', 'NoDisorientation', 'NoDifficultyCompletingTasks'})",frozenset({'YesDiagnosis'}),0.5105263157894737,1.0,0.5105263157894737,1.0,1.0,1.0,0.0,inf,0.0,0.5105263157894737,0.0,0.7552631578947369
+"frozenset({'NoBehavioralProblems', 'NoDifficultyCompletingTasks', 'NoPersonalityChanges'})",frozenset({'YesDiagnosis'}),0.5289473684210526,1.0,0.5289473684210526,1.0,1.0,1.0,0.0,inf,0.0,0.5289473684210526,0.0,0.7644736842105263
+"frozenset({'NoDisorientation', 'NoConfusion', 'NoPersonalityChanges'})",frozenset({'YesDiagnosis'}),0.593421052631579,1.0,0.593421052631579,1.0,1.0,1.0,0.0,inf,0.0,0.5934210526315791,0.0,0.7967105263157894
+"frozenset({'NoDifficultyCompletingTasks', 'NoDisorientation', 'NoConfusion'})",frozenset({'YesDiagnosis'}),0.5578947368421052,1.0,0.5578947368421052,1.0,1.0,1.0,0.0,inf,0.0,0.5578947368421052,0.0,0.7789473684210526
+"frozenset({'NoDifficultyCompletingTasks', 'NoConfusion', 'NoPersonalityChanges'})",frozenset({'YesDiagnosis'}),0.5776315789473684,1.0,0.5776315789473684,1.0,1.0,1.0,0.0,inf,0.0,0.5776315789473684,0.0,0.7888157894736842
+"frozenset({'NoDifficultyCompletingTasks', 'NoDisorientation', 'NoPersonalityChanges'})",frozenset({'YesDiagnosis'}),0.6131578947368421,1.0,0.6131578947368421,1.0,1.0,1.0,0.0,inf,0.0,0.6131578947368421,0.0,0.8065789473684211
