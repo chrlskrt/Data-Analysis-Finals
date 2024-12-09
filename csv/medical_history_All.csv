@@ -1,5 +1,1 @@
 antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage
-"frozenset({'NoCardiovascularDisease', 'NoHypertension', 'NoHeadInjury'})","frozenset({'NoDiagnosis', 'NoFamilyHistoryAlzheimers'})",0.6561191251744998,0.47650069799906936,0.322940902745463,0.4921985815602837,1.0329440935283687,0.010299681629275081
-"frozenset({'NoDiagnosis', 'NoFamilyHistoryAlzheimers'})","frozenset({'NoCardiovascularDisease', 'NoHypertension', 'NoHeadInjury'})",0.47650069799906936,0.6561191251744998,0.322940902745463,0.677734375,1.0329440935283687,0.010299681629275081
-"frozenset({'NoDiagnosis', 'NoFamilyHistoryAlzheimers', 'NoHeadInjury'})","frozenset({'NoCardiovascularDisease', 'NoHypertension'})",0.4304327594229874,0.7268496975337366,0.322940902745463,0.7502702702702703,1.0322220299685088,0.01008098175025296
-"frozenset({'NoCardiovascularDisease', 'NoHypertension'})","frozenset({'NoDiagnosis', 'NoFamilyHistoryAlzheimers', 'NoHeadInjury'})",0.7268496975337366,0.4304327594229874,0.322940902745463,0.44430217669654287,1.0322220299685088,0.01008098175025296
